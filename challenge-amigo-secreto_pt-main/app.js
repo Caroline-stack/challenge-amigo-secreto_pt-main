@@ -23,7 +23,7 @@ function adicionarAmigo() {
     } else {
         mensagemErro.textContent = "Por favor, insira um nome válido!";
         mensagemErro.classList.add("visivel");
-    }
+}
 }
 function sortearAmigo() { 
     if (amigos.length === 0) {
