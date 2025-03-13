@@ -12,13 +12,17 @@ function atualizarLista() {
 function adicionarAmigo() {
     let input = document.getElementById('amigo'); 
     let nome = input.value.trim();
+    let mensagemErro = document.getElementById('mensagemErro');
     if (nome !== "") {
         amigos.push(nome); 
         atualizarLista(); 
         input.value = ""; 
         input.focus(); 
+        mensagemErro.textContent = "";
+        mensagemErro.classList.remove("visivel");
     } else {
-        alert("Por favor, insira um nome válido!"); 
+        mensagemErro.textContent = "Por favor, insira um nome válido!";
+        mensagemErro.classList.add("visivel");
     }
 }
 function sortearAmigo() { 

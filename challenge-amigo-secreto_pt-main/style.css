@@ -115,6 +115,18 @@ button {
     cursor: pointer;
 }
 
+.mensagem-erro {
+    color: red;
+    font-size: 14px;
+    margin-top: 10px;
+    font-family: "Inter", sans-serif;
+    visibility: hidden; 
+}
+
+.mensagem-erro.visivel {
+    visibility: visible; 
+}
+
 .button-add {
     background-color: var(--color-tertiary);
     color: var(--color-text);
