@@ -30,7 +30,7 @@ JavaScript: Lógica de negócio para manipulação de DOM, validações e intera
 
 <h4>Alguns detalhes:</h4>
 
-Paleta de cores com tons coloridos e vibrantes.
+Paleta de cores com tons coloridos e vibrantes, mas priorizando o equilíbrio.
 
 Animações suaves para uma experiência mais dinâmica.
 
@@ -58,6 +58,7 @@ Feedback visual para melhorar a interação do usuário.
 <img src="https://github.com/Caroline-stack/Banco-de-midia/blob/main/Captura%20de%20tela%202025-03-13%20210121.png">
 <img src="https://github.com/Caroline-stack/Banco-de-midia/blob/main/Captura%20de%20tela%202025-03-13%20210142.png">
 <img src="https://github.com/Caroline-stack/Banco-de-midia/blob/main/Captura%20de%20tela%202025-03-13%20210204.png">
+<img src="https://github.com/Caroline-stack/Banco-de-midia/blob/main/Captura%20de%20tela%202025-03-13%20210240.png">
 
 <h2>🔥 Aprendizados e Desafios</h2>
 
