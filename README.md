@@ -57,6 +57,7 @@ Feedback visual para melhorar a interação do usuário.
 <img src="https://github.com/Caroline-stack/Banco-de-midia/blob/main/Captura%20de%20tela%202025-03-13%20210031.png">
 <img src="https://github.com/Caroline-stack/Banco-de-midia/blob/main/Captura%20de%20tela%202025-03-13%20210121.png">
 <img src="https://github.com/Caroline-stack/Banco-de-midia/blob/main/Captura%20de%20tela%202025-03-13%20210142.png">
+<img src="https://github.com/Caroline-stack/Banco-de-midia/blob/main/Captura%20de%20tela%202025-03-13%20210204.png">
 
 <h2>🔥 Aprendizados e Desafios</h2>
 
